@@ -1,4 +1,4 @@
-# webpack-react-typescript-setup
+# Webpack-react-typescript-setup
 Just a simple webpack-react-typescript setup
 
 Run yarn, then yarn start
